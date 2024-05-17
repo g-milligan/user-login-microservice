@@ -27,8 +27,10 @@ Creating an application that allows users to create an account and login involve
 
 #### 2. Set Up Spring Boot Project:
 
-- Create a new Spring Boot project using Spring Initializr or start.spring.io.
+- Create a new Spring Boot project using Spring Initializr or [start.spring.io](https://start.spring.io/).
 - Configure dependencies for Spring Web, Spring Data JPA, and Spring Security.
+
+![Spring Initializer Configuration](docs/img/SpringInitializerSettings.PNG)
 
 #### 3. Implement User Registration:
 
@@ -119,4 +121,18 @@ Creating an application that allows users to create an account and login involve
 - Implement security best practices, such as regular patching and vulnerability scanning.
 
 By following these steps, you can create a robust full-stack application that allows users to create an account and login securely. Utilizing the specified technologies and skills will ensure a high-quality, scalable solution that meets modern development standards.
+
+## VSCode Extensions
+
+- ??? Spring Boot Tools by vmware.com
+    - ??? Spring Boot Dashboard by microsoft.com
+
+- Extension Pack for Java by microsoft.com
+- Spring Boot Extension Pack by vmware.com
+
+## Install/Update Java JDK
+
+<https://www.oracle.com/java/technologies/downloads>
+
+You may have to add the path to your environment variables.
 
